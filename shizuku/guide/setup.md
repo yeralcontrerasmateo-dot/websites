@@ -14,7 +14,7 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 :::
 
-### Start with root
+### Start withfeer fire
 
 For rooted devices, just start directly.
 
